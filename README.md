@@ -1,30 +1,37 @@
 ![](images/WebsiteBanner.png)
 
-Tentative course outline as of Wednesday October 29, 2025. Click [here](Schedule.qmd) to see the proposed course content and schedule.
+Cytometry in R is a free virtual mini-course being organized by the [Flow Cytometry Shared Resource](https://www.medschool.umaryland.edu/cibr/core/umgccc_flow/) Core at the [University of Maryland's Greenebaum Comprehensive Cancer Center](https://www.umms.org/umgccc). This course is a passion project arising from our desire to contribute back to the community. 
 
-Please complete the [interest form](https://docs.google.com/forms/d/e/1FAIpQLScPK4V_WNSgQvZNq7aIHpoiX8pi3kiuCfI0Tp7hQkVJS3HPtQ/viewform?usp=publish-editor) to stay in the loop as we finalize date and times. 
+We are excited that so many individuals worldwide have chosen to take part, and we look forward to helping you get started on your own learning journeys. 
 
-### Motivation
+![](/images/WorldwideSignups.png){width=100%}
 
-"Cytometry in R" is a weekly mini-course being offered both in-person and online by the Flow Cytometry Shared Resource staff at the [University of Maryland Greenebaum Comprehensive Cancer Center](https://www.medschool.umaryland.edu/cibr/core/umgccc_flow/). Its primary audience is for those with prior flow cytometry knowledge, who have limited previous experience with the programming language [R](https://www.r-project.org/). 
+# Participating
 
-While many cytometry enthusiast express an interest in learning how to carry out flow cytometry analyses in R, they often do not know where to start. Additionally, many of the limited [existing resources](https://umgccfcss.github.io/BISCC_2025/Resources.html#cytometry-in-r) are focused towards users with intermediate bioinformatic skills, contributing to a greater barrier for entry for those just starting out. Our motivation in offering this mini-course tailored towards beginners is to make the learning journey smoother than the one we ourselves experienced. 
+The course will start the first week of February, with Week #1 resources being released  on Sunday, February 1st at 2200 EST (Monday 0300 GMT+0). See below for additional details.
+
+## Resources
+
+The pre-course learning materials are now [available](/course/00_GitHub/index.qmd), providing walkthroughs of how to set up your workstations with the required software, and exercises to help you become more familiar with the various teaching and coding resources we will be using throughout the course. 
+
+Narrated versions of the walk through materials are now also available via [YouTube](https://www.youtube.com/@CytometryInR)
 
 
-### Rationale
+## In-Person (Baltimore)
 
-While designing the course, we kept the following concepts in mind:
+For those joining us in person, the class is being offered on Monday, Tuesday and Thursday from **4-5 pm EST** in Bressler Research Building Room 7-035. We invite you to make whichever session best fits your schedule. Monitors to plug your laptops in will be available on a first come, first served basis. These in-person sessions will not be recorded, but with the smaller class size you will have our undivided attention should you have any questions. 
 
-- Beginning coders benefit both by having detailed examples that they can initially work through on their own time, as well as less defined problems that through troubleshooting enable the acquisition of the thought-process and skills needed for coding. 
+## Virtual (Worldwide)
 
-- Some topics will take individuals a longer time to fully grasp. Providing a format and resources that enable being able to revisit the material multiple times is incredibly helpful. Likewise, life is busy, and missing a workshop session is highly probable. If this happens, it shouldn't make or break the ability of the individual to understanding the rest of the course. 
+For those joining us virtually, we will have three separate livestreams throughout the week on [YouTube](https://www.youtube.com/@CytometryInR). These will be offered on:
 
-- Consistency is key, and being able to apply what you are learning to your own datasets, files, and questions of interest helps achieve this. 
+- Tuesday 2200 EST (Wednesday 0300 GMT+0)
+- Wednesday 1600 EST (Wednesday 2100 GMT+0)
+- Thursday 1000 EST (Thursday 1500 GMT+0)
 
-### Cost
+All three livestreams will be recorded and available on YouTube immediately afterwards.
 
-Is there a cost to participate? No, it's absolutely free! Is there a catch? Yes, you learn R, and may wind up with strong feelings about flowframes vs. cytoframes. This is also our first year offering this course, so we will sporadically ask you to fill out a feedback form to help us improve. 
+## Discussion Forum
 
-### Additional Details
-
+We will be using the Cytometry in R  [Discussions page](https://github.com/UMGCCCFCSR/CytometryInR/discussions) as a community forum, and a place to ask questions, celebrate wins, and provide feedback. After creating a a [GitHub](/course/00_GitHub/index.qmd) account, pleae go introduce yourself. 
 For additional details, please visit our [website](https://umgccfcss.github.io/CytometryInR/)
